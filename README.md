@@ -1,2 +1,2 @@
 # cepatest-api-v3
-Information about CEPA Test v3 API 
+Information about CEPA Test API v2
