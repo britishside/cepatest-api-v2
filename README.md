@@ -19,7 +19,7 @@ You will need an API key to be able to run the methods. This API key will be use
 - Log in to the **CEPA Test Company Module**,
 - click on **API** menu on the left sidebar.
 
- ![](https://cepatest.org/api/assets/images/api_key.png)
+<img src="https://cepatest.org/api/assets/images/api_key.png" width="65%" border="1">
 -  On the page click to **Click** to view button.
 
 ## Methods
@@ -33,3 +33,9 @@ You will need an API key to be able to run the methods. This API key will be use
 - GetOverallResultByPDF
 - SendInvitationByEmail
 - AssignTestByEmail
+
+------------
+
+### GetCandidates *[GET]*
+`https://cepatest.org/api/v2/GetCandidates`
+
